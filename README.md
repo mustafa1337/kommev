@@ -1,6 +1,6 @@
 This is the mockup/prototype for my university Project for KOMM e.V.
 
-https://mustafabagci.com/kommev/login
+Available on: https://mustafabagci.com/kommev/login
 
-Benutzername: togafss24
-Passwort: gruppe2
+Username: togafss24
+Password: gruppe2
